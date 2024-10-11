@@ -2,10 +2,7 @@
 
 ¡Bienvenido a mi repositorio de ejercicios de JavaScript! Este repositorio está diseñado para ayudarte a desarrollar habilidades en JavaScript, comenzando desde lo básico hasta niveles más avanzados.
 
-<p>
-  <iframe src="https://giphy.com/embed/VUC9YdLSnKuJy" width="300" alt="Anime Welcome">
-</p>
-
+![Anime Welcome](https://media.giphy.com/media/VUC9YdLSnKuJy/giphy.gif)
 
 ## 🔰 Nivel 1: Fundamentos
 
