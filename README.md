@@ -2,7 +2,7 @@
 
 Bienvenido a mi repositorio de ejercicios en JavaScript. Este repositorio está diseñado para ayudarte a desarrollar habilidades en JavaScript, comenzando desde lo básico hasta niveles más avanzados.
 
-![Wonder Egg Priority GIF](https://media.giphy.com/media/h8B3YUVV0wOheZR7yK/giphy.gif)
+![Wonder Egg Priority](https://media.giphy.com/media/l41JToCez8kPkhUw0/giphy.gif)
 
 ## 🔰 Nivel 1: Fundamentos
 
@@ -17,7 +17,7 @@ Bienvenido a mi repositorio de ejercicios en JavaScript. Este repositorio está 
 9. *Arrays básicos*: Declara un array con 5 nombres y muestra cada nombre en la consola.
 10. *Modificar un array*: Cambia el tercer valor de un array y luego imprime todo el array.
 
-![Wonder Egg Priority GIF](https://media.giphy.com/media/7Uv5Whf0tEKLmtQ5RU/giphy.gif)
+![Wonder Egg Priority](https://media.giphy.com/media/xT1XGY3CBj2b1LeSp6/giphy.gif)
 
 ## 🧑‍💻 Nivel 2: Interacción con el usuario
 
@@ -28,7 +28,7 @@ Bienvenido a mi repositorio de ejercicios en JavaScript. Este repositorio está 
 5. *Validación de entrada*: Verifica si el valor ingresado es un número.
 6. *Palíndromos*: Comprueba si una palabra es un palíndromo.
 
-![Wonder Egg Priority GIF](https://media.giphy.com/media/YTj8dv8iYUB0cqIiGW/giphy.gif)
+![Wonder Egg Priority](https://media.giphy.com/media/2t9U6lmAQg9r9FGPUG/giphy.gif)
 
 ## 💡 Ejercicios Intermedios
 
@@ -44,6 +44,8 @@ Bienvenido a mi repositorio de ejercicios en JavaScript. Este repositorio está 
 9. Filtra números pares de un arreglo.
 10. Multiplica cada número de un arreglo por 2.
 
+![Wonder Egg Priority](https://media.giphy.com/media/Q7ShX10pXNSDSOjSM8/giphy.gif)
+
 ## 🚀 Ejercicios Avanzados
 
 1. Ordena alfabéticamente un arreglo de strings.
@@ -57,7 +59,7 @@ Bienvenido a mi repositorio de ejercicios en JavaScript. Este repositorio está 
 9. Usa reduce() para obtener la suma acumulada de un arreglo.
 10. Usa reduce() para calcular el producto de todos los números de un arreglo.
 
-![Wonder Egg Priority GIF](https://media.giphy.com/media/VJZyV5aGwdQDd0df43/giphy.gif)
+![Wonder Egg Priority](https://media.giphy.com/media/f4Bfl5hvcFtzSnmnft/giphy.gif)
 
 ## 🔧 Cómo usar este repositorio
 
