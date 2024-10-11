@@ -19,7 +19,7 @@
 9. 📋 Arrays básicos: Declara un array con 5 nombres y muestra cada nombre en la consola.
 10. ✏ Modificar un array: Cambia el tercer valor de un array y luego imprime todo el array.
 
-![Anime Welcome](https://media.giphy.com/media/oTiMS5tKgDSKY.gift)
+![Akane Tendo Dancing](https://media.giphy.com/media/oTiMS5tKgDSKY/giphy.gif)
 
 
 
