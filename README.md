@@ -2,7 +2,7 @@
 
 Bienvenido a mi repositorio de ejercicios en JavaScript. Este repositorio está diseñado para ayudarte a desarrollar habilidades en JavaScript, comenzando desde lo básico hasta niveles más avanzados.
 
-![Wonder Egg Priority](https://tenor.com/bwoTf.gif)
+![Wonder Egg Priority](https://tenor.com/es-US/view/wonder-egg-priority-gif-20076163)
 
 ## 🔰 Nivel 1: Fundamentos
 
