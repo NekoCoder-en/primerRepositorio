@@ -34,9 +34,7 @@
 5. ❓ Validación de entrada: Verifica si el valor ingresado es un número.
 6. 🔄 Palíndromos: Comprueba si una palabra es un palíndromo.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Tdd3w7GzPeG7PZSfiQ/giphy.gif" width="200" alt="Anime Thinking">
-</p>
+![Bored](https://media.giphy.com/media/ySdSWIAwD5QRi/giphy.gif)
 
 ## 💡 Ejercicios Intermedios
 
@@ -54,9 +52,7 @@
 9. ⚖ Filtra números pares de un arreglo.
 10. ✖ Multiplica cada número de un arreglo por 2.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Anime Arrays">
-</p>
+![GIF](https://media.giphy.com/media/d1E2VyhFsxawRbeo/giphy.gif)
 
 ## 🚀 Ejercicios Avanzados
 
@@ -73,13 +69,5 @@
 9. ➕ Usa reduce() para obtener la suma acumulada de un arreglo.
 10. ✖ Usa reduce() para calcular el producto de todos los números de un arreglo.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kdHa4JvihG6g/giphy.gif" width="250" alt="Anime Advanced Coding">
-</p>
+![Drawing Bleach](https://media.giphy.com/media/14ykqngG4rUYpi/giphy.gif)
 
-
-## 🔧 Cómo usar este repositorio
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
