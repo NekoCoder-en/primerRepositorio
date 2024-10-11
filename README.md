@@ -2,7 +2,7 @@
 
 Bienvenido a mi repositorio de ejercicios en JavaScript. Este repositorio está diseñado para ayudarte a desarrollar habilidades en JavaScript, comenzando desde lo básico hasta niveles más avanzados.
 
-![Wonder Egg Priority](https://assets.pinterest.com/ext/embed.html?id=783415297681223040)
+![Wonder Egg Priority](https://tenor.com/view/wonder-egg-priority-gif-20076163)
 
 ## 🔰 Nivel 1: Fundamentos
 
@@ -17,7 +17,7 @@ Bienvenido a mi repositorio de ejercicios en JavaScript. Este repositorio está 
 9. *Arrays básicos*: Declara un array con 5 nombres y muestra cada nombre en la consola.
 10. *Modificar un array*: Cambia el tercer valor de un array y luego imprime todo el array.
 
-![Wonder Egg Priority](https://media.giphy.com/media/xT1XGY3CBj2b1LeSp6/giphy.gif)
+![Ai Ohto Anime](https://tenor.com/view/ai-ohto-anime-wonder-egg-priority-gif-21942775)
 
 ## 🧑‍💻 Nivel 2: Interacción con el usuario
 
@@ -28,7 +28,7 @@ Bienvenido a mi repositorio de ejercicios en JavaScript. Este repositorio está 
 5. *Validación de entrada*: Verifica si el valor ingresado es un número.
 6. *Palíndromos*: Comprueba si una palabra es un palíndromo.
 
-![Wonder Egg Priority](https://media.giphy.com/media/2t9U6lmAQg9r9FGPUG/giphy.gif)
+![What Should I Do Wonder Egg](https://tenor.com/view/what-should-i-do-wonder-egg-wonder-egg-priority-fight-ai-ohto-gif-20769233)
 
 ## 💡 Ejercicios Intermedios
 
@@ -44,7 +44,7 @@ Bienvenido a mi repositorio de ejercicios en JavaScript. Este repositorio está 
 9. Filtra números pares de un arreglo.
 10. Multiplica cada número de un arreglo por 2.
 
-![Wonder Egg Priority](https://media.giphy.com/media/Q7ShX10pXNSDSOjSM8/giphy.gif)
+![Ai Ot](https://tenor.com/view/ai-ot-gif-22253561)
 
 ## 🚀 Ejercicios Avanzados
 
@@ -59,7 +59,7 @@ Bienvenido a mi repositorio de ejercicios en JavaScript. Este repositorio está 
 9. Usa reduce() para obtener la suma acumulada de un arreglo.
 10. Usa reduce() para calcular el producto de todos los números de un arreglo.
 
-![Wonder Egg Priority](https://media.giphy.com/media/f4Bfl5hvcFtzSnmnft/giphy.gif)
+![Wonder Egg Wonder Egg Priority](https://tenor.com/view/wonder-egg-wonder-egg-priority-ohto-ai-ai-ohto-gif-20308176)
 
 ## 🔧 Cómo usar este repositorio
 
